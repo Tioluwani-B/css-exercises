@@ -1,0 +1,13 @@
+/* This pages adds style to the texts provided in the index.html document,
+ hence demonstrating the use of external css*/
+
+
+/* Using Type Selector*/
+div{
+background-color: red;
+color:white;
+font-size: 32px;
+text-align: center;
+font-weight: bold; 
+}
+
